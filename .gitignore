@@ -1,0 +1,18 @@
+# Python
+venv/
+frontend/
+__pycache__/
+.pytest_cache__/
+*.pyc
+*.pyo
+.env
+
+# Node
+node_modules/
+dist/
+
+# Docker
+*.log
+
+# OS
+.DS_Store
